@@ -4,15 +4,14 @@
  * main - entry point
  *
  * Description: Print lowercase alphabet backwards
+ * Return: 0
  */
 int main(void)
 {
-char x;
+char c;
 
-for (x = '0'; x <='9'; ++x)
-putchar(x)
-for (x = 'z'; c >= 'a'; --c)
-putchar(x);
+for (c = 'z'; c >= 'a'; --c)
+putchar(c);
 
 putchar('\n');
 
