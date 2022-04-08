@@ -18,5 +18,3 @@ putchar(c);
 purchar('\n');
 
 return (0);
-}
-
