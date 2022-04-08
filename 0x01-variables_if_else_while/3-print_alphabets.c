@@ -1,6 +1,5 @@
 #include <stdio.h>
 /**
- *
  * main - entry point 
  *
  * Description: Print lower and upper alphabet on the same line
