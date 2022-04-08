@@ -15,6 +15,6 @@ for (c = 'a'; c <= 'z'; ++c)
 if (c != 'e' && c != 'q')
 putchar(c);
 }
-purchar('\n');
+putchar('\n');
 
 return (0);
