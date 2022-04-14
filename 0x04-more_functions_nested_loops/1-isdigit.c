@@ -14,5 +14,5 @@ else
 {
 return (0);
 }
-_putch('\n');
+_putchar('\n');
 }
